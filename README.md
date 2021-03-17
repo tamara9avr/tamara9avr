@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tamara, third year student of Software Engineering
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning Python, PHP, JavaScript, CSS, HTML
 - 📫 How to reach me: tamaraavramovic99@gmail.com
 
 <!---
